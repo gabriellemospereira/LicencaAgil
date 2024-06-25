@@ -8,5 +8,5 @@
 <hr>
 
 <h2>Imagens do projeto</h2>
-<img src="imagens/Captura de tela 2024-06-25 152115.png" alt="Menu do software">
-<img src="imagens/home.png" alt="home_licença-ágil">
+<img src="/Captura de tela 2024-06-25 152115.png" alt="Menu do software">
+<img src="/home.png" alt="home_licença-ágil">
