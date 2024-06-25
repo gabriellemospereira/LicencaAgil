@@ -1,3 +1,12 @@
 # LicencaAgil
-<h1>Para poder ver como está esse projeto siga as intruções abaixo:</h1>
-<p>Baixe o código instale o pacote router e o pacote   o swiper</p>
+
+<h1>Projeto Licença ágil</h1>
+<p>Estou criando um projeto de startup onde eu e minha equipe de desenvolvimento estamos criando um software de gestão para cadastrar e gerenciar todo o processo de abertura e liberação de alvará de novas empresas.</p>
+<h2>Tecnologias usadas no desenvolvimento</h2>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<hr>
+
+<h2>Imagens do projeto</h2>
+<img src="imagens/Captura de tela 2024-06-25 152115.png" alt="Menu do software">
+<img src="imagens/home.png" alt="home_licença-ágil">
