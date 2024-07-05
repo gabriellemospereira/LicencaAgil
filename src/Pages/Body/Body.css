@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bloco-maior{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+}
+
+.bloco{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #0082d3;
+    flex: 1;
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    width: 300px;
+    
+}
+
+.bloco h1{
+    color: white;
+    font-size: 20px;
+}
+
+.icone{
+    height: 80px;
+
+}
+
+.parceiro{
+    text-align: center;
+    color: black;
+}

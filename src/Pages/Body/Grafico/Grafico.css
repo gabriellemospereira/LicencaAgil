@@ -1,0 +1,23 @@
+
+
+.bloco-grafico{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: red;
+    margin-top: 30px;
+} 
+
+.empresab{
+    margin-top: 70px;
+    color: red;
+    margin-top: 40px;
+    width: 800px;
+    height: 500px;
+}
+
+.caixagrafico{
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}

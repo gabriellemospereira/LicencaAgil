@@ -1,0 +1,27 @@
+.mapa{
+    margin: 30px;
+    border-radius: 10px;
+    width: 800px;
+    height: 800px;
+    display: flex;
+    border-radius: 10px;
+}
+
+.map{
+    border-radius: 10px;
+}
+
+.caixamapa{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.caixainfo{
+   margin-left: 150px;
+   margin-top: 20px;
+}
+
+.caixainfo p{
+   font-size: 30px;
+}
