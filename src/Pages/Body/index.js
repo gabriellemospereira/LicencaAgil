@@ -22,7 +22,7 @@ export default function Body(){
 <div className="bloco">
 <div><img className="icone" src={map}></img></div>
 <div>
-<h1>Mapas</h1>
+<h1>Processos</h1>
 </div>
 </div>
 </Link>

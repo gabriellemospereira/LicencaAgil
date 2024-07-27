@@ -20,11 +20,6 @@ import Visao from '../Pages/Body/Visao'
 import Lista from '../Pages/Body/Lista';
 import Grafico from '../Pages/Body/Grafico';
 import Comparacao from '../Pages/Body/Comparacao';
-import Norte from '../Pages/Body/Visao/Regioes/Norte';
-import Leste from '../Pages/Body/Visao/Regioes/Leste';
-import Centro from '../Pages/Body/Visao/Regioes/Centro';
-import Sul from '../Pages/Body/Visao/Regioes/Sul';
-import Oeste from '../Pages/Body/Visao/Regioes/Oeste';
 import Calendario from '../Pages/Body/Calendario/Calendario'
 
 
@@ -53,11 +48,6 @@ export default function Router(){
                 <Route path='grafico' element={<Grafico></Grafico>}></Route>
                 <Route path='comparacao' element={<Comparacao></Comparacao>}></Route>
                 <Route path='sliderdois' element={<SliderDois></SliderDois>}></Route>
-                <Route path='norte' element={<Norte></Norte>}></Route>
-                <Route path='leste' element={<Leste></Leste>}></Route>
-                <Route path='centro' element={<Centro></Centro>}></Route>
-                <Route path='sul' element={<Sul></Sul>}></Route>
-                <Route path='oeste' element={<Oeste></Oeste>}></Route>
                 <Route path='calendario' element={<Calendario></Calendario>}></Route>
             </Routes>
         </BrowserRouter>
